@@ -1,0 +1,4 @@
+#Mon Dec 02 19:22:07 MST 2019
+base.0=C\:\\Users\\FTC\\Documents\\repos\\beeppatrol\\SkyStone\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
